@@ -25,6 +25,8 @@ Aby zaliczyć kurs, uczestnicy muszą:
 3. Dodać dokumentację projektu w **MkDocs**,
 4. Przedstawić działający projekt na ostatnich zajęciach.
 
+**Nieobecności**: możliwe 2 nieobecności nieusprawiedliwione, później wymagane usprawiedliwienie.
+
 ## 🚀 Projekty
 
 - Tematy projektów zostaną podane w późniejszym terminie,
@@ -39,4 +41,3 @@ Aby zaliczyć kurs, uczestnicy muszą:
 
 ## 📢 Kontakt
 W razie pytań, proszę o kontakt na Teams lub poprzez email - jstaszel@agh.edu.pl.
-
