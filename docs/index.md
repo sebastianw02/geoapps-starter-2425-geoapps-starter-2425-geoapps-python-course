@@ -41,4 +41,3 @@ Aby zaliczyć kurs, uczestnicy muszą:
 
 ## 📢 Kontakt
 W razie pytań, proszę o kontakt na Teams lub poprzez email - jstaszel@agh.edu.pl.
-
